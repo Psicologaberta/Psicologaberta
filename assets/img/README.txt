@@ -1,0 +1,1 @@
+Coloca aquí: logo.png, hero-terapia.jpg, berta-perfil.jpg

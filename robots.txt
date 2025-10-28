@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://psicologaberta.netlify.app/sitemap.xml
